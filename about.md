@@ -1,0 +1,2 @@
+# *About*
+_Aquesa Solutions Private Limited's Storage Service is a feasible to use, scalable and flexible storage service which eliminates all the complexities in integrating cloud storage services into the developers brain children (softwares). The best part here is that, the service is always _**6$/mo**_ irrespective of the amount of storage being used. _**Ingress and Egress**_, _**Hourly billing**_, _**Hidden charges**_, etc all are eliminated. Only _**6$/mo**_, that's it._
